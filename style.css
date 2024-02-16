@@ -1,0 +1,23 @@
+.section_blue{
+    width: 400px;
+    height: 100px;
+    background-color: blue;
+}
+.section_red{
+    width: 400px;
+    height: 100px;
+    background-color: red;
+}
+.section_green{
+    width: 400px;
+    height: 100px;
+    background-color: green;
+}
+.section_yellow{
+    width: 400px;
+    height: 100px;
+    background-color: yellow;
+}
+#border{
+    border: solid 1px ;
+}
